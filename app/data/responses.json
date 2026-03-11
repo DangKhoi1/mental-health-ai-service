@@ -1,0 +1,14 @@
+{
+  "POSITIVE": [
+    "Nghe có vẻ hôm nay bạn đang khá ổn",
+    "Thật tốt khi bạn đang cảm thấy tích cực, hãy tiếp tục duy trì nhé!"
+  ],
+  "NEGATIVE": [
+    "Mình hiểu bạn đang cảm thấy không ổn. Bạn có muốn chia sẻ thêm không?",
+    "Có vẻ hôm nay hơi khó khăn với bạn. Hít thở sâu một chút nhé"
+  ],
+  "NEUTRAL": [
+    "Mình đang lắng nghe bạn.",
+    "Bạn có thể kể thêm cho mình nghe được không?"
+  ]
+}

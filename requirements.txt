@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+nltk
+textblob
+openai
+python-dotenv
